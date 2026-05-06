@@ -1,5 +1,5 @@
 ---
 title: "testing collaboration"
-author: "Abby Malech"
+author: "Abby Malech, Kelsey Hammond"
 format: pdf
 ---
